@@ -1,0 +1,10 @@
+.cabeçalho{background-color: #080000; color: white; display: flex; justify-content: space-around;}
+.imagem-logo{width: 20%;}
+.cabeçalho-lista{display: inline-block; margin: 0 16px}
+.site{background-color: rgb(255, 251, 251); color: aquamarine(131, 92, 48);}
+.imagem-produtos{width: 180px; height: 130px;}
+.rodape{background-color: blue; color:black; display: flex; justify-content: space-around;}
+.produtos{display: flex; justify-content: space-around;}
+.makes{}
+.importados{text-align: center; color:blueviolet (128, 61, 22)}
+.makes-div{display: inline-block;}
